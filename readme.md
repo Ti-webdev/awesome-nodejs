@@ -126,6 +126,7 @@
 
 ### Command-line apps
 
+- [hotel](https://github.com/typicode/hotel) - A simple process manager for developers. Start apps from your browser and access them using local domains.
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
